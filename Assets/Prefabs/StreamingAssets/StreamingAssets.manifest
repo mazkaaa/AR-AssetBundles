@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2159316068
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: museumitem
+      Dependencies: {}
